@@ -3,6 +3,6 @@ All the files have been commented for your ease. Furthermore you may also add fu
 
 As this was a group project, hence attached is the link of my group member who equally contributed in this project:
 
-Sana: 
+Sana: https://github.com/sanaa-khan
 
 For further queries contact me at : chhxnshah@gmail.com
