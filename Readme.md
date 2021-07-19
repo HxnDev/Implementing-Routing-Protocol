@@ -10,5 +10,7 @@ How to run:
 Doesn't require anything more than a C++ compiler and a shell
 
 As this was a group project, hence attached is the link of my group member who equally contributed in this project:
+
 Sana: https://github.com/sanaa-khan
+
 For further queries contact me at : chhxnshah@gmail.com
